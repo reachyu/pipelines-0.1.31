@@ -1,7 +1,7 @@
 # 简介
 基于kubeflow pipeline 0.1.31版本做的二次开发
 
-# 修改文件列表列表
+# 修改文件列表
 * frontend\src\components\SideNav.tsx
 * frontend\src\components\Banner.tsx
 * frontend\src\components\UploadPipelineDialog.tsx
