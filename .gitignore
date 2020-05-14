@@ -61,3 +61,6 @@ _artifacts
 
 # Generated Python SDK documentation
 docs/_build
+/backend/src/apiserver/model/default_experiment.go
+/backend/src/apiserver/model/deepexi_app.go
+/backend/src/apiserver/model/deepexi_dataset.go
